@@ -1,4 +1,3 @@
-// script.js
 document.addEventListener('DOMContentLoaded', function() {
     // Переключение между вкладками
     const tabButtons = document.querySelectorAll('.nav-btn');
